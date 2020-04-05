@@ -21,7 +21,7 @@ Performance of Models on test data, Miro F1_score is used as evaluation metric (
 - XGBoost Classifier : 0.30
 - LightGradient Boosting Classifier: 0.45,
 
-Among all these models Logitic regression results were better.
+Among all these models Logistic regression results were better.
 
 ### Further Improvements:
 - The same problem can also be solved using deep Learning LSTMs and CNNs. 
