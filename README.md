@@ -19,7 +19,8 @@ Performance of Models on test data, Miro F1_score is used as evaluation metric (
 - LinearSVC, F1Score : 0.50
 - Random Forect Classifier : 0.48
 - XGBoost Classifier : 0.30
-- LightGradient Boosting Classifier: 0.45 
+- LightGradient Boosting Classifier: 0.45,
+
 Among all these models Logitic regression results were better.
 
 ### Further Improvements:
