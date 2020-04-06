@@ -28,4 +28,4 @@ Among all these models Logistic regression results were better.
 
 ### References used for this problem are:
 1. Predicting Movie Genres using NLP - https://www.analyticsvidhya.com/blog/2019/04/predicting-movie-genres-nlp-multi-label-classification/
-2.Machine Learning - Text Classification with Python, nltk, Scikit & Pandas - https://www.youtube.com/watch?v=5xDE06RRMFk&t=1003s
+2. Machine Learning - Text Classification with Python, nltk, Scikit & Pandas - https://www.youtube.com/watch?v=5xDE06RRMFk&t=1003s
